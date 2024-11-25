@@ -1,0 +1,12 @@
+  /home/sigaretov/src/sp/hw6/forlinux:
+  drwxr-xr-x 4 sigaretov sigaretov 4096 Mar 15 03:58 .
+  drwxr-xr-x 4 sigaretov sigaretov 4096 Mar 15 03:58 ..
+  drwxr-xr-x 3 sigaretov sigaretov 4096 Mar 15 03:58 build
+  drwxr-x--- 3 sigaretov sigaretov 4096 Mar 15 03:58 .cache
+D -rw-r--r-- 1 sigaretov sigaretov 2584 Mar 15 03:58 child.c
+  -rw-r--r-- 1 sigaretov sigaretov  229 Mar 15 03:58 CMakeLists.txt
+  -rw-r--r-- 1 sigaretov sigaretov 3475 Mar 15 03:58 parent.c
+D -rw-r--r-- 1 sigaretov sigaretov 1138 Mar 15 03:58 testc.c
+D -rw-r--r-- 1 sigaretov sigaretov 1223 Mar 15 03:58 testp.c
+D -rw-r--r-- 1 sigaretov sigaretov  106 Mar 15 03:58 test.txt
+  -rw-r--r-- 1 sigaretov sigaretov  819 Mar 15 03:58 utils.h
